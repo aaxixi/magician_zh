@@ -13,7 +13,7 @@
     * 自动调平套件
     * 通信套件（蓝牙、WIFI）
     * 手柄控制套件
-  * 机械臂扩展套件
+  * [机械臂扩展套件](chapter1/ji-xie-bi-kuo-zhan-tao-jian.md)
     * 导轨
     * 传送带
     * RGBD传感器
