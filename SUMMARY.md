@@ -5,7 +5,7 @@
   * [机械臂部件说明](chapter1/ji-xie-bi-bu-jian-shuo-ming.md)
   * [机械臂接口说明](chapter1/ji-xie-bi-jie-kou-shuo-ming.md)
   * [机械臂末端工具介绍](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao.md)
-    * 写字画画套件
+    * [写字画画套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/xie-zi-hua-hua-tao-jian.md)
     * 3D打印套件
     * 吸盘套件
     * 手爪套件
@@ -19,7 +19,7 @@
 * [魔术师配套软件 Dobot-studio介绍](mo-zhu-shi-pei-tao-ruan-jian-dobot-studio-jie-shao.md)
 * [魔术师可以完成那些令人激动的功能](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng.md)
   * [写字画画](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/xie-zi-hua-hua.md)
-  * 示教再现
+  * [示教再现](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/shi-jiao-zai-xian.md)
   * 激光雕刻
   * 灰度雕刻
   * 3D打印
