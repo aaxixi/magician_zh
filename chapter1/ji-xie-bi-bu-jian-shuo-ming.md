@@ -31,5 +31,11 @@ int32_t en_cpf(uint8_t argc, uint8_t *argv[])
 REG_SHELL_CMD(en_cpf,0,en_cpf,"en_cpf!", "en_cpf 0/1\r\n ");
 ```
 
+|  |  |  |  |
+| :--- | :--- | :--- | :--- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
 
 
