@@ -3,7 +3,7 @@
 * [Dobot 魔术师产品概述](README.md)
 * [魔术师产品介绍](chapter1.md)
   * [机械臂部件说明](chapter1/ji-xie-bi-bu-jian-shuo-ming.md)
-  * 机械臂接口说明
+  * [机械臂接口说明](chapter1/ji-xie-bi-jie-kou-shuo-ming.md)
   * [机械臂末端工具介绍](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao.md)
     * 写字画画套件
     * 3D打印套件

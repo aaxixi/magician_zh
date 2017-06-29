@@ -25,7 +25,7 @@ int32_t en_cpf(uint8_t argc, uint8_t *argv[])
     {
         DBG_I("cur use color console:%s",(flag_enable_cpf>0)?"Enable":"Disable");
     }     
-	return RET_OK;
+    return RET_OK;
 }
 
 REG_SHELL_CMD(en_cpf,0,en_cpf,"en_cpf!", "en_cpf 0/1\r\n ");
