@@ -12,7 +12,7 @@
     * [激光套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/ji-guang-tao-jian.md)
     * [自动调平套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/zi-dong-diao-ping-tao-jian.md)
     * [通信套件（蓝牙、WIFI）](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/tong-xin-tao-jian-ff08-lan-ya-3001-wifi.md)
-    * 手柄控制套件
+    * [手柄控制套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/shou-bing-kong-zhi-tao-jian.md)
   * [机械臂扩展套件](chapter1/ji-xie-bi-kuo-zhan-tao-jian.md)
     * 导轨
     * 传送带
