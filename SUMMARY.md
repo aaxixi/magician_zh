@@ -9,7 +9,7 @@
     * [3D打印套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/3dda-yin-tao-jian.md)
     * [吸盘套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/xi-pan-tao-jian.md)
     * [手爪套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/shou-zhua-tao-jian.md)
-    * 激光套件
+    * [激光套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/ji-guang-tao-jian.md)
     * 自动调平套件
     * [通信套件（蓝牙、WIFI）](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/tong-xin-tao-jian-ff08-lan-ya-3001-wifi.md)
     * 手柄控制套件
