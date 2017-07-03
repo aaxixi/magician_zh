@@ -30,6 +30,7 @@
   * [您在使用中可能遇到的问题 （FAQ）](nin-zai-shi-yong-zhong-ke-neng-yu-dao-de-wen-ti.md)
     * [3D打印配件安装以及注意事项](nin-zai-shi-yong-zhong-ke-neng-yu-dao-de-wen-ti/3dda-yin-pei-jian-an-zhuang-yi-ji-zhu-yi-shi-xiang.md)
     * [机械臂底座校准](nin-zai-shi-yong-zhong-ke-neng-yu-dao-de-wen-ti/ji-xie-bi-di-zuo-xiao-zhun.md)
+  * 手势控制
 * [Dobot SDK 开发](dobot-sdk-kai-fa.md)
 * [FAQ](faq.md)
 * [Magician售后以及服务条款](magicianshou-hou-yi-ji-fu-wu-tiao-kuan.md)
