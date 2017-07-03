@@ -6,7 +6,7 @@
   * [机械臂接口说明](chapter1/ji-xie-bi-jie-kou-shuo-ming.md)
   * [机械臂末端工具介绍](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao.md)
     * [写字画画套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/xie-zi-hua-hua-tao-jian.md)
-    * 3D打印套件
+    * [3D打印套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/3dda-yin-tao-jian.md)
     * 吸盘套件
     * 手爪套件
     * 激光套件
