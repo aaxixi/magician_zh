@@ -7,7 +7,7 @@
   * [机械臂末端工具介绍](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao.md)
     * [写字画画套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/xie-zi-hua-hua-tao-jian.md)
     * [3D打印套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/3dda-yin-tao-jian.md)
-    * 吸盘套件
+    * [吸盘套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/xi-pan-tao-jian.md)
     * 手爪套件
     * 激光套件
     * 自动调平套件
