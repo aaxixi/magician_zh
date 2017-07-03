@@ -19,6 +19,7 @@
 * [魔术师配套软件 Dobot-studio介绍](mo-zhu-shi-pei-tao-ruan-jian-dobot-studio-jie-shao.md)
 * [魔术师可以完成那些令人激动的功能](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng.md)
   * [写字画画](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/xie-zi-hua-hua.md)
+    * 手势控制
   * [示教再现](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/shi-jiao-zai-xian.md)
   * 激光雕刻
   * 灰度雕刻
