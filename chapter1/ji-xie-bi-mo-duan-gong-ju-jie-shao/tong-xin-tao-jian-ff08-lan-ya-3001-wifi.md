@@ -8,3 +8,9 @@
 
 2、在手机（IOS）设置里打开蓝牙，再打开Dobot App即可连接上机械臂。
 
+3、Dobot App官网下载地址：l[http://cn.dobot.cc/download-center/dobot-magician.html](http://cn.dobot.cc/download-center/dobot-magician.html)
+
+![](/assets/360截图20170703183457142.jpg)
+
+
+
