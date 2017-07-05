@@ -20,8 +20,8 @@
 * [魔术师可以完成那些令人激动的功能](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng.md)
   * [写字画画](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/xie-zi-hua-hua.md)
   * [示教再现](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/shi-jiao-zai-xian.md)
-  * 激光雕刻
-  * 灰度雕刻
+  * [激光雕刻](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/ji-guang-diao-ke.md)
+  * [灰度雕刻](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/hui-du-diao-ke.md)
   * 3D打印
   * Blockly图形化编程
   * [Script 脚本编程](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/script-jiao-ben-bian-cheng.md)
