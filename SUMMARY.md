@@ -22,12 +22,12 @@
   * [示教再现](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/shi-jiao-zai-xian.md)
   * [激光雕刻](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/ji-guang-diao-ke.md)
   * [灰度雕刻](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/hui-du-diao-ke.md)
-  * 3D打印
-  * Blockly图形化编程
+  * [3D打印](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/3dda-yin.md)
+  * [Blockly图形化编程](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/blocklytu-xing-hua-bian-cheng.md)
   * [Script 脚本编程](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/script-jiao-ben-bian-cheng.md)
-  * 鼠标控制
-  * 自动调平功能
-  * 手势控制
+  * [鼠标控制](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/shu-biao-kong-zhi.md)
+  * [自动调平功能](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/zi-dong-diao-ping-gong-neng.md)
+  * [手势控制](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng/shou-shi-kong-zhi.md)
   * [您在使用中可能遇到的问题 （FAQ）](nin-zai-shi-yong-zhong-ke-neng-yu-dao-de-wen-ti.md)
     * [3D打印配件安装以及注意事项](nin-zai-shi-yong-zhong-ke-neng-yu-dao-de-wen-ti/3dda-yin-pei-jian-an-zhuang-yi-ji-zhu-yi-shi-xiang.md)
     * [机械臂底座校准](nin-zai-shi-yong-zhong-ke-neng-yu-dao-de-wen-ti/ji-xie-bi-di-zuo-xiao-zhun.md)
