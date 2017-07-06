@@ -12,5 +12,7 @@
 
 此时手柄正面按键灯会亮起，同时手柄下方的灯会闪烁：
 
+![](file:///C:\Users\admin\AppData\Local\Temp\ksohtml\wps697D.tmp.jpg)
 
+图三、手柄工作中
 
