@@ -22,5 +22,5 @@
 
 首次使用前，需要使用USB 进行WiFi模块的设，完成后即可实现WiFi模块的独立使用，不再需要连接USB线。
 
-1、1.打开DobotStudio，点击连接按钮通过COM口连接机械臂，选择工具Tools-&gt;Wi-Fi选项，开启Wi-Fi参数设置界面。
+1、打开DobotStudio，点击连接按钮通过COM口连接机械臂，选择工具Tools-&gt;Wi-Fi选项，开启Wi-Fi参数设置界面。
 
