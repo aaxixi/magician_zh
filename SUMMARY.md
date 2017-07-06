@@ -14,7 +14,7 @@
     * [通信套件（蓝牙、WIFI）](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/tong-xin-tao-jian-ff08-lan-ya-3001-wifi.md)
     * [手柄控制套件](chapter1/ji-xie-bi-mo-duan-gong-ju-jie-shao/shou-bing-kong-zhi-tao-jian.md)
   * [机械臂扩展套件](chapter1/ji-xie-bi-kuo-zhan-tao-jian.md)
-    * 导轨
+    * [导轨](chapter1/ji-xie-bi-kuo-zhan-tao-jian/dao-gui.md)
     * 传送带
 * [魔术师配套软件 Dobot-studio介绍](mo-zhu-shi-pei-tao-ruan-jian-dobot-studio-jie-shao.md)
 * [魔术师可以完成那些令人激动的功能](mo-zhu-shi-ke-yi-wan-cheng-na-xie-ling-ren-ji-dong-de-gong-neng.md)
