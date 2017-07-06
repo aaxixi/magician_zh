@@ -24,3 +24,5 @@
 
 1、打开DobotStudio，点击连接按钮通过COM口连接机械臂，选择工具Tools-&gt;WIFI选项，开启WIFI参数设置界面。
 
+![](/assets/i0)
+
