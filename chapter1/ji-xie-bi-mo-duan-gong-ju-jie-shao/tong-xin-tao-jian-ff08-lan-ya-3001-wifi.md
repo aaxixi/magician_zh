@@ -20,7 +20,7 @@
 
 设置WIFI模块：
 
-首次使用前，需要使用USB 进行WIFI模块设置，完成后即可实现WIFI模块的独立使用，不再需要连接USB线。
+首次使用前，需要使用USB 线进行WIFI模块设置，完成后即可实现WIFI模块的独立使用，不再需要连接USB线。
 
 1、打开DobotStudio，点击连接按钮通过COM口连接机械臂，选择工具Tools-&gt;WIFI选项，开启WIFI参数设置界面。
 
