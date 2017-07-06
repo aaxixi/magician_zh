@@ -8,7 +8,7 @@
 
 ![](file:///C:\Users\admin\AppData\Local\Temp\ksohtml\wps3FC4.tmp.jpg)
 
-图11.2 启动手柄
+图二、启动手柄
 
 此时手柄正面按键灯会亮起，同时手柄下方的灯会闪烁：
 
