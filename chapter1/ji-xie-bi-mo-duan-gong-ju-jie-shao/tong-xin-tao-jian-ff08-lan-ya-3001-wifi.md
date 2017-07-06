@@ -34,7 +34,7 @@
 
 在“SSID”输入框填入WIFI名字；
 
-在“Password”输入框填入Wi-Fi密码；
+在“Password”输入框填入WIFI密码；
 
 使用DHCP功能，请勾选单选框；
 
