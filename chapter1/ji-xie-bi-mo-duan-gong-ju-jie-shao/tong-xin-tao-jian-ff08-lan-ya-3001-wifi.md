@@ -32,7 +32,7 @@
 
 图三、WIFI界面
 
-在“SSID”输入框填入Wi-Fi名字；
+在“SSID”输入框填入WIFI名字；
 
 在“Password”输入框填入Wi-Fi密码；
 
@@ -41,6 +41,10 @@
 不使用DHCP功能，请填写“IPAddress”、“Netmask”、“Gateway”、“DNS”等参数。
 
 一般情况下，直接使用DHCP功能并点击确定OK按钮完成设置。等待若干秒，Dobot Wi-Fi无线模块的绿色信号灯常亮，表示Dobot已经接入局域网。
+
+![](/assets/impo 0.)
+
+图四、Dobo接入局域网成功
 
 
 
