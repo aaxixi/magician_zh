@@ -12,5 +12,7 @@
 
 2、将颜色传感器的线接在第二台机械臂的主控盒接口 Communication Interface 上；
 
+![](/assets/imrg1ng)
 
+图三
 
